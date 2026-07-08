@@ -40,3 +40,6 @@
 - 香港号码 eSIM
 
 `VPN`、`梯子` 等词保留在辅助解释层，不作为总站主标题。
+## Latest page
+
+- [中国 eSIM 购买指南：国际网络、香港线路、热点共享与原生 IP 证据页](https://rul2tlf-maker.github.io/china-esim-proof-buying-guide/)
